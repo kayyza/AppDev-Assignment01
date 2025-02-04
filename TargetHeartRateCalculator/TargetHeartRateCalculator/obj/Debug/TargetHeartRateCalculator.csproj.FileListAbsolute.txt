@@ -1,0 +1,7 @@
+C:\Users\rache\OneDrive - Vanier College\Winter - Semester 3\Application Development\Assignments\HerronRachelAssignment01\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe.config
+C:\Users\rache\OneDrive - Vanier College\Winter - Semester 3\Application Development\Assignments\HerronRachelAssignment01\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.exe
+C:\Users\rache\OneDrive - Vanier College\Winter - Semester 3\Application Development\Assignments\HerronRachelAssignment01\TargetHeartRateCalculator\TargetHeartRateCalculator\bin\Debug\TargetHeartRateCalculator.pdb
+C:\Users\rache\OneDrive - Vanier College\Winter - Semester 3\Application Development\Assignments\HerronRachelAssignment01\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.AssemblyReference.cache
+C:\Users\rache\OneDrive - Vanier College\Winter - Semester 3\Application Development\Assignments\HerronRachelAssignment01\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rache\OneDrive - Vanier College\Winter - Semester 3\Application Development\Assignments\HerronRachelAssignment01\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.exe
+C:\Users\rache\OneDrive - Vanier College\Winter - Semester 3\Application Development\Assignments\HerronRachelAssignment01\TargetHeartRateCalculator\TargetHeartRateCalculator\obj\Debug\TargetHeartRateCalculator.pdb
